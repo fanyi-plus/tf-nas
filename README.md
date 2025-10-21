@@ -1,2 +1,4 @@
 # tf-nas
-免训练神经网络结构搜索，适用于多种任务、多种模型、多种数据集。
+Training-free neural architecture search, applicable to diverse tasks, models, and datasets.
+
+Due to the upcoming CVPR 2026 submission deadline, we are currently unable to clean and release the code. The modules will be made available progressively after late November. Thank you for your understanding.
